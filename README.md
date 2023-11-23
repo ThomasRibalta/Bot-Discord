@@ -8,12 +8,14 @@ C'etait des cours que sur du python.
 
 Voici par exemple pour les bases du python:
 
-[Screencast from 23-11-2023 14:54:53.webm](https://github.com/mamaPvP/Bot-Discord/assets/105978556/772ebea6-b787-4245-9d21-e95588ec784f)
+![Screencast from 23-11-2023 15 24 09](https://github.com/mamaPvP/Bot-Discord/assets/105978556/81cc1579-4d48-45a5-bf07-945219aceac7)
+
 
 # Utilisation du bot
 Ce bot avait pas mal de command utilitaire pour automatiser l'apprentissage par exemple en faisant !aide un genre de menu avec les commandes que l'on pouvait faire s'ouvrait.
 
-[Screencast from 23-11-2023 15:01:11.webm](https://github.com/mamaPvP/Bot-Discord/assets/105978556/17af1b77-1fcd-4583-82ea-ed074b4b1226)
+![Screencast from 23-11-2023 15 01 11](https://github.com/mamaPvP/Bot-Discord/assets/105978556/f89b85dc-94d3-47b2-8f3d-ec11c22bcf1c)
+
 
 En faisant !correction avec le nom de l'exercice on recevait en prive un message de ce style.
 
