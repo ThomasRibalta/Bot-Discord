@@ -6,7 +6,7 @@ from discord.ext import commands
 
 import correction
 
-token = 'ODQzODYxNjc5OTM3NjgzNDk4.GKcrOD.g6pm_wTUcDsF73fpVEpAmD_mRBDZh5WlIitlf4'
+token = 'Is my bot, you want the token \(^-^)/'
 
 intents = discord.Intents().all()
 bot = commands.Bot(command_prefix='!', intents=intents)
